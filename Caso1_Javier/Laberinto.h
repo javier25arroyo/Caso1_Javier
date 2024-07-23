@@ -20,7 +20,6 @@ private:
     int rows, cols;
     vector<string> map;
     pair<int, int> start;
-    bool isValidMove(int x, int y);
 };
 
 #endif
