@@ -18,13 +18,5 @@
     <ClCompile Include="Caso1_Javier.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Laberinto.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Laberinto.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

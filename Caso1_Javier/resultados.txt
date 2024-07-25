@@ -1,0 +1,13 @@
+Posición inicial: (4, 0) -> No llega a un tesoro
+Posición inicial: (2, 7) -> No llega a un tesoro
+Posición inicial: (2, 0) -> Sí llega a un tesoro
+Posición inicial: (1, 1) -> No llega a un tesoro
+Posición inicial: (0, 0) -> No llega a un tesoro
+Posición inicial: (1, 1) -> No llega a un tesoro
+Posición inicial: (1, 0) -> Sí llega a un tesoro
+Posición inicial: (1, 0) -> No llega a un tesoro
+Posición inicial: (4, 0) -> No llega a un tesoro
+Posición inicial: (1, 0) -> Sí llega a un tesoro
+Posición inicial: (1, 0) -> No llega a un tesoro
+Posición inicial: (1, 0) -> Sí llega a un tesoro
+Posición inicial: (1, 0) -> Sí llega a un tesoro

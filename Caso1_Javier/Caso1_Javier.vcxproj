@@ -128,10 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Caso1_Javier.cpp" />
-    <ClCompile Include="Laberinto.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Laberinto.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
