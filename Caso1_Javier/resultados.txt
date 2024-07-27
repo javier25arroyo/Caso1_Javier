@@ -1,26 +1,3 @@
-Posición inicial: (4, 0) -> No llega a un tesoro
-Posición inicial: (2, 7) -> No llega a un tesoro
-Posición inicial: (2, 0) -> Sí llega a un tesoro
-Posición inicial: (1, 1) -> No llega a un tesoro
-Posición inicial: (0, 0) -> No llega a un tesoro
-Posición inicial: (1, 1) -> No llega a un tesoro
-Posición inicial: (1, 0) -> Sí llega a un tesoro
-Posición inicial: (1, 0) -> No llega a un tesoro
-Posición inicial: (4, 0) -> No llega a un tesoro
-Posición inicial: (1, 0) -> Sí llega a un tesoro
-Posición inicial: (1, 0) -> No llega a un tesoro
-Posición inicial: (1, 0) -> Sí llega a un tesoro
-Posición inicial: (1, 0) -> Sí llega a un tesoro
-Posición inicial: (5, 1) -> Sí llega a un tesoro
-Posición de tesoro: (2, 1)
-Posición inicial: (1, 0) -> Sí llega a un tesoro
-Posición de tesoro: (1, 1)
-Posición de tesoro: (3, 1)
-El agente puede llegar al tesoro desde la posición (1, 0)
-El agente no puede llegar al tesoro desde la posición (2, 0)
-El agente no puede llegar al tesoro desde la posicion (1, 9)
-Posicion sin tesoro: (0, 1)
-Posicion de tesoro: (3, 1)
-El agente puede llegar al tesoro desde la posicion (1, 1)
-Posicion de tesoro: (2, 1)
-El agente puede llegar al tesoro desde la posicion (5, 1)
+
+Posicion de tesoro: (1, 2)
+El agente puede llegar al tesoro desde la posicion (2, 3)
