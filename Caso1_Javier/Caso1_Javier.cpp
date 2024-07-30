@@ -88,7 +88,7 @@ public:
 int main() {
     /*Daniel Echeverri Ortega
       Sebastian Chinchilla
-      Javier P�rez Arroyo */
+      Javier Pérez Arroyo */
 
     int filas, columnas;
     cout << "Ingrese el numero de filas y columnas separados por un espacio:" << endl;
@@ -115,3 +115,11 @@ int main() {
 }
 
 #endif
+
+
+
+
+//Conclusiones del código:
+//1. El código nos genera un laberinto usando una cuadrícula de caracteres, con paredes, tesoros y celdas vacías, que son generadas generadas aleatoriamente.Utilizando un algoritmo de búsqueda en profundidad (DFS) para localizar un tesoro dentro del laberinto desde una posición inicial dada.
+//2. La complejidad temporal de la búsqueda del tesoro (buscarTesoro) en el peor de los casos es 0 (filas×columnas), ya que potencialmente todas las celdas del laberinto pueden ser visitadas una vez. La complejidad espacial es 0 (filas×columnas), debido al almacenamiento de las estructuras laberinto y visitado, que guardan el estado del laberinto y las celdas visitadas.
+//3.  Se puede mejorar la eficiencia del código implementando algoritmos más avanzados de búsqueda de caminos como A* o BFS si se conoce más sobre la estructura del laberinto y también podemos permitir las probabilidades de generar paredes y tesoros sean configurables para una mayor flexibilidad.
